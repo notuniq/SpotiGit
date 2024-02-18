@@ -1,0 +1,10 @@
+GITHUB_TOKEN = ""
+SPOTIFY_TOKEN = "" # start get_api_key_spotify.py
+SPOTIFY_CLIENT_ID = ""
+SPOTIFY_SECRET_ID = ""
+SPOTIFY_REDIRECT_URI = 'http://localhost:5000/callback'
+REPO_OWNER = ""
+REPO_NAME = ""
+FILE_PATH = "README.md"
+CONTENT_FIND = "🎵 currently playing:"
+SLEEP = 5 #secs
